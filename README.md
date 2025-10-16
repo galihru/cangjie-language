@@ -110,7 +110,7 @@ public class Greeter {
 
 func main() {
   let a: Animal = Dog()
-  a.speak()  // Dog barks
+  a.speak()  // 到咯
 
   let g = Greeter("欢迎来到 Cangjie!")
   g.greet()
@@ -213,5 +213,3 @@ func main() {
   println("F(10) = ${Fib.calc(10)}")
 }
 ```
-
-> 祝学习顺利！如需我把本 README 转为 PDF/幻灯片或加入 CI/CD 示例，请继续告诉我～
