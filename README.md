@@ -59,7 +59,7 @@ count += 1
 let n: Int = 7
 let pi = 3.14159     // 推断为浮点
 let ok: Bool = true
-let name = "Hanifa"
+let name = "jiang rui"
 println("name = ${name}, n = ${n}")
 ```
 
